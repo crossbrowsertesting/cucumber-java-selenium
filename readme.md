@@ -1,4 +1,6 @@
-To run:
+** Selenium with Cucumber
+
+To run clone the repository found here:
 
 ```git clone https://github.com/crossbrowsertesting/cucumber-java-selenium.git```
 
